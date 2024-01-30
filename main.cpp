@@ -298,7 +298,6 @@ int main()
 
                 int number1[15] = {0};
                 int number2 = 0;
-                int modulus[15] = {0};
 
                 cout << "\n-------------------------------------------------------\n";
                 cout << "                         Modulus                         \n";
